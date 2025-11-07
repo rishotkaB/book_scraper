@@ -6,7 +6,7 @@ import pytest
 # Добавляем путь к корневой директории для импорта модулей
 sys.path.append(os.path.join(os.path.dirname(__file__), '..'))
 
-from scrape_books import *
+from scraper import *
 
 
 class TestGetBookData:
