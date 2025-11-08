@@ -55,3 +55,5 @@ schedule (для планировщика)
 pytest (для тестирования)
 
 time
+
+## Have a nice day!
